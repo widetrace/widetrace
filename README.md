@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @widetrace
 - 👀 I’m interested in web-development, cryptocurrency
-- 🌱 I’m currently learning TypeScript and vue3
-- 💞️ I’m looking to collaborate on new projects
+- 🌱 I’m currently working on the Stabfi Project
+- 💞️ I’m always looking to find a new friends
 - 📫 How to reach me: telegram --> @widetrace
 
 <!---
