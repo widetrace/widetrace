@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Stabfi Project](https://stabfi.com/)
-
 - 🌱 I’m currently learning **Rust language**
 
 - 📫 How to reach me **@widetrace (telegram)**
